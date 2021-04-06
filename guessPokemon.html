@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who's that Pokemon?</title>
+
+    <link rel="stylesheet" href="guessPokemon.css">
+    <script src="./allPokemons.js"></script>
+    <script src="./guessPokemon.js"></script>
+
+    <script src="https://kit.fontawesome.com/d4a52177dc.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <header>
+        <h1 id="title">Who's that Pokemon?</h1>
+    </header>
+
+    <div class="main box">
+
+        <figure>
+            <img src="" alt="some image" id="canvas">
+        </figure>
+
+
+        <div class="box">
+
+            <input type="text" id="guessInput" value="">
+
+        </div>
+
+        <div class="box">
+            <button onclick="tryGuess()">Send</button>
+            <button onclick="iDontKnow()">I don't know!</button>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Guess the Pokemon - Carolina Abreu</p>
+
+        <div>
+            <a href="https://github.com/CarolinaAbreu19" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/ana-carolina-silva-abreu-80325a195/" target="_blank"><i
+                    class="fab fa-linkedin-in"></i></a>
+        </div>
+
+        <p>All the Pokémon names and images are copyrighted by Nintendo</p>
+        <p>This is a project made just for fun</p>
+
+        <p>Pokemon Sprites at <a
+                href="https://www.pokencyclopedia.info/en/index.php?id=sprites/spin-off/conquest-portraits"
+                target="_blank">pokencyclopedia</a>
+        </p>
+    </footer>
+
+</body>
+
+</html>
