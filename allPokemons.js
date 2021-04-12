@@ -7,185 +7,255 @@
 
 var charmander = {
     name: "charmander",
-    source: "./images/0.png"
+    source: "./pokemons/0.png"
 }
 
 var charmeleon = {
     name: "charmeleon",
-    source: "./images/1.png"
+    source: "./pokemons/1.png"
 }
 
 var charizard = {
     name: "charizard",
-    source: "./images/2.png"
+    source: "./pokemons/2.png"
 }
 
-var beedrill = {
+var  beedrill = {
     name: "beedrill",
-    source: "./images/3.png"
+    source: "./pokemons/3.png"
 }
 
-var ekans = {
-    name: "ekans",
-    source: "./images/4.png"
+var scyther = {
+    name: "scyther",
+    source: "./pokemons/4.png"
 }
 
 var arbok = {
     name: "arbok",
-    source: "./images/5.png"
+    source: "./pokemons/5.png"
 }
 
 var igglybuff = {
     name: "igglybuff",
-    source: "./images/6.png"
+    source: "./pokemons/6.png"
 }
 
 var jigglypuff = {
     name: "jigglypuff",
-    source: "./images/7.png"
+    source: "./pokemons/7.png"
 }
 
 var wigglytuff = {
     name: "wigglytuff",
-    source: "./images/8.png"
+    source: "./pokemons/8.png"
 }
 
 var zubat = {
     name: "zubat",
-    source: "./images/9.png"
+    source: "./pokemons/9.png"
 }
 
 var golbat = {
     name: "golbat",
-    source: "./images/10.png"
+    source: "./pokemons/10.png"
 }
 
 var crobat = {
     name: "crobat",
-    source: "./images/11.png"
+    source: "./pokemons/11.png"
 }
 
 var pichu = {
     name: "pichu",
-    source: "./images/12.png"
+    source: "./pokemons/12.png"
 }
 
 var pikachu = {
     name: "pikachu",
-    source: "./images/13.png"
+    source: "./pokemons/13.png"
 }
 
 var raichu = {
     name: "raichu",
-    source: "./images/14.png"
+    source: "./pokemons/14.png"
 }
 
 var meowth = {
     name: "meowth",
-    source: "./images/15.png"
+    source: "./pokemons/15.png"
 }
 
 var persian = {
     name: "persian",
-    source: "./images/16.png"
+    source: "./pokemons/16.png"
 }
 
 var abra = {
     name: "abra",
-    source: "./images/17.png"
+    source: "./pokemons/17.png"
 }
 
 var kadabra = {
     name: "kadabra",
-    source: "./images/18.png"
+    source: "./pokemons/18.png"
 }
 
 var alakazam = {
     name: "alakazam",
-    source: "./images/19.png"
+    source: "./pokemons/19.png"
 }
 
 var groudon = {
     name: "groudon",
-    source: "./images/20.png"
+    source: "./pokemons/20.png"
 }
 
 var dialga = {
     name: "dialga",
-    source: "./images/21.png"
+    source: "./pokemons/21.png"
 }
 
 var arceus = {
     name: "arceus",
-    source: "./images/22.png"
+    source: "./pokemons/22.png"
 }
 
-var gastly = {
-    name: "gastly",
-    source: "./images/23.png"
+var pupitar = {
+    name: "pupitar",
+    source: "./pokemons/23.png"
 }
 
 var haunter = {
     name: "haunter",
-    source: "./images/24.png"
+    source: "./pokemons/24.png"
 }
 
 var gengar = {
     name: "gengar",
-    source: "./images/25.png"
+    source: "./pokemons/25.png"
 }
 
 var onix = {
     name: "onix",
-    source: "./images/26.png"
+    source: "./pokemons/26.png"
 }
 
-var steelix = {
-    name: "steelix",
-    source: "./images/27.png"
+var starly = {
+    name: "starly",
+    source: "./pokemons/27.png"
 }
 
 var eevee = {
     name: "eevee",
-    source: "./images/28.png"
+    source: "./pokemons/28.png"
 }
 
 var vaporeon = {
     name: "vaporeon",
-    source: "./images/29.png"
+    source: "./pokemons/29.png"
 }
 
 var jolteon = {
     name: "jolteon",
-    source: "./images/30.png"
+    source: "./pokemons/30.png"
 }
 
 var flareon = {
     name: "flareon",
-    source: "./images/31.png"
+    source: "./pokemons/31.png"
 }
 
 var espeon = {
     name: "espeon",
-    source: "./images/32.png"
+    source: "./pokemons/32.png"
 }
 
 var umbreon = {
     name: "umbreon",
-    source: "./images/33.png"
+    source: "./pokemons/33.png"
 }
 
 var leafeon = {
     name: "leafeon",
-    source: "./images/34.png"
+    source: "./pokemons/34.png"
 }
 
 var glaceon = {
     name: "glaceon",
-    source: "./images/35.png"
+    source: "./pokemons/35.png"
 }
 
 var mewtwo = {
     name: "mewtwo",
-    source: "./images/36.png"
+    source: "./pokemons/36.png"
+}
+
+var rhydon = {
+    name: "rhydon",
+    source: "./pokemons/37.png"
+}
+
+var magikarp = {
+    name: "magikarp",
+    source: "./pokemons/38.png"
+}
+
+var gyarados = {
+    name: "gyarados",
+    source: "./pokemons/39.png"
+}
+
+var articuno = {
+    name: "articuno",
+    source: "./pokemons/40.png"
+}
+
+var treecko = {
+    name: "treecko",
+    source: "./pokemons/41.png"
+}
+
+var minccino = {
+    name: "minccino",
+    source: "./pokemons/42.png"
+}
+
+var kirlia = {
+    name: "kirlia",
+    source: "./pokemons/43.png"
+}
+
+var chimecho = {
+    name: "chimecho",
+    source: "./pokemons/44.png"
+}
+
+var sealeo = {
+    name: "sealeo",
+    source: "./pokemons/45.png"
+}
+
+var shinx = {
+    name: "shinx",
+    source: "./pokemons/46.png"
+}
+
+var oshawott = {
+    name: "oshawott",
+    source: "./pokemons/47.png"
+}
+
+var zekrom = {
+    name: "zekrom",
+    source: "./pokemons/48.png"
+}
+
+var dragonair = {
+    name: "dragonair",
+    source: "./pokemons/49.png"
+}
+
+var wooper = {
+    name: "wooper",
+    source: "./pokemons/50.png"
 }
