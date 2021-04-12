@@ -3,10 +3,11 @@ window.onload = choosePic;
 var index;
 
 /* Array that receives all Pokemons in the game. You can greatly improve this array */
-var allPokemons = new Array(charmander, charmeleon, charizard, beedrill, ekans, arbok, igglybuff, jigglypuff,
-    wigglytuff, zubat, golbat, crobat, pichu, pikachu, raichu, meowth, persian, abra, kadabra, alakazam,
-    groudon, dialga, arceus, gastly, haunter, gengar, onix, steelix, eevee, vaporeon, jolteon, flareon, espeon,
-    umbreon, leafeon, glaceon, mewtwo);
+var allPokemons = new Array(charmander, charmeleon, charizard, beedrill, scyther, arbok, igglybuff, jigglypuff,
+    wigglytuff, zubat, golbat, crobat, pichu, pikachu, raichu, meowth, persian, abra, kadabra, alakazam, groudon,
+    dialga, arceus, pupitar, haunter, gengar, onix, starly, eevee, vaporeon, jolteon, flareon, espeon, umbreon,
+    leafeon, glaceon, mewtwo, rhydon, magikarp, gyarados, articuno, treecko, minccino, kirlia, chimecho, sealeo,
+    shinx, oshawott, zekrom, dragonair, wooper);
 
 function randomNumber() {
     let num = Math.floor(Math.random() * allPokemons.length);
@@ -56,8 +57,4 @@ function tryGuess() {
         choosePic();
         clearInput();
     }
-}
-
-function iDontKnow() {
-    choosePic();
 }

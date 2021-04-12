@@ -1,5 +1,5 @@
 body {
-    background-color: #CDE7B0;
+    background-color: #FFE1A8;
     margin: 0;
     font-size: 62.5%;
     color: #59594A;
@@ -12,11 +12,12 @@ img {
 }
 
 figure {
+    border: 10px solid #000000;
     background-color: #FFFFFF;
     margin-left: auto;
     margin-right: auto;
-    width: 320px;
-    height: 325px;
+    width: 200px;
+    height: 200px;
     text-align: center;
     border-radius: 5px;
     padding: 15px;
@@ -25,18 +26,20 @@ figure {
 button {
     font-family: 'Indie Flower', cursive;
     border: none;
-    width: 100px;
-    height: 30px;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
     margin: 5px;
-    background-color: #BE6E46;
-    color: #FFFFFF;
-    font-size: 15px;
+    background-color: #C9CBA3;
+    color: #59594A;
+    font-size: 30px;
     transition: 0.5s;
 }
 
 button:hover {
     cursor: pointer;
-    background-color: #ee8d5c;
+    background-color: #959773;
+    color: #FFFFFF;
 }
 
 header {
@@ -68,7 +71,8 @@ footer i {
 }
 
 .main {
-    background-color: #7286A0;
+    display: inline-block;
+    background-color: #E26D5C;
     width: 500px;
     height: 500px;
     border-radius: 10px;
@@ -84,4 +88,3 @@ footer i {
     padding: 10px;
     border-radius: 5px;
 }
-
