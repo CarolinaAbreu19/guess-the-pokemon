@@ -201,4 +201,4 @@ All the Pokémon names and images are copyrighted by Nintendo. Pokemon Conquest 
 
 ## Contact
 
-Carolina Abreu - [Linkedin](https://www.linkedin.com/in/ana-carolina-silva-abreu-80325a195/) - anacarolinaks19@gmail.com
+Carolina Abreu - [Linkedin](https://www.linkedin.com/in/ana-carolina-silva-abreu-80325a195/)
